@@ -10,7 +10,6 @@ This Python script automates the process of providing feedback on faculty member
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **User Inputs**: The script takes the SAP ID, password, and the desired rating as user inputs.
@@ -25,7 +24,7 @@ This Python script automates the process of providing feedback on faculty member
 ## Usage
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/college-faculty-feedback-automation.git
+   git clone https://github.com/siddhant-192/NMIMS-Faculty-Feedback-Automation.git
    ```
 
 2. Install the required Python libraries.
